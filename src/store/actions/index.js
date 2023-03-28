@@ -1,0 +1,1 @@
+export { setPost } from './post';
